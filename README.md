@@ -13,14 +13,14 @@ How's it going everyone! This here is a Chrome-Youtube Extension Challenge! I wa
 
 When it is not a YT Page:
 
-<p align="center" width="100">
+<p align="center">
 <img src="/assets/demo1.JPG" width="1267" height="121"/>
 </p>
 
 Icon:
 
-<p align="center" width="100">
-<img src="/assets/demo3.JPG" width="650" height="550"/>
+<p align="center">
+<img src="/assets/demo3.JPG" width="1267" height="121"/>
 </p>
 
 Preview:
